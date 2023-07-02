@@ -2,7 +2,7 @@
 
 A little I/O based console ATM program I wrote in my free time to try and master some concepts that I've been learning as a student at SoftUni.
 
-I have seen a similar ATM program developped by <a href="https://www.youtube.com/@CodeBeauty" target="_blank"> CodeBeauty on YouTube</a>(on C++, however), and I definitely was inspired by her project. 
+I have seen a similar ATM program developped by [CodeBeauty on YouTube](https://www.youtube.com/@CodeBeauty") (on C++, however), and I definitely was inspired by her project. 
 
 I decided to make the project idea my own by making a login menu, where the user can log in, or register a new user. I did this by keeping the users in a list, as a way to mimick a database. To do so, I made a `Clients` class as a way to store the data for each user.
 
